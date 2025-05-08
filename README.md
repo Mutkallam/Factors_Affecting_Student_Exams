@@ -6,7 +6,7 @@ In this project, I explored the Student Performance Factors dataset from Kaggle,
 ### Key Steps:
 Dataset Overview: Worked with a detailed dataset of 6,600+ students, including 20 attributes like hours studied, attendance, parental involvement, tutoring, family income, motivation, and more.
 
-### Exploratory Data Analysis (EDA):
+### Exploratory Data Analysis:
 
 Computed a correlation matrix for numeric variables, identifying top positive predictors like hours studied, attendance, and previous scores.
 
